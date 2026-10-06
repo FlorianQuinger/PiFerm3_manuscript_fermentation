@@ -40,4 +40,3 @@ The code is separated in three directories. The directory "16S" contains a jupyt
 | `71_metabolomics_basic.R` | Creates basic summaries and plots of NMR metabolites. |
 | `72_metabolomics_differential_analysis.R` | Performs differential metabolomics comparisons and writes result tables. |
 | `95_Fermentation_plots.R` | Generates the main and supplementary figures for the manuscript. |
-Block pasted, 1 total
